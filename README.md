@@ -13,4 +13,5 @@ En el archivo pokemon.txt se puede insertar el texto compuesto por palabras sepa
 # Notas de versión
 
 v1.1 Ahora acepta saltos de linea
+
 v1.0 Programa creado
