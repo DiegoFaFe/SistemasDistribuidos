@@ -1,1 +1,7 @@
-fichero de palabras
+esto es una coleccion de palabras
+segunda linea
+tercera linea
+cuarta linea
+
+penultima linea
+
