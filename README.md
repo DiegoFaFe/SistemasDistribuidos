@@ -1,12 +1,9 @@
 # SistemasDistribuidos
 Practicas de los seminarios de la asignatura Sistemas Distribuidos del grado en Ingeniería Informática, desarrolladas por Diego Fariñas y Miguel Castillo
-<<<<<<< HEAD
 
 # Practica 3
 Desarrollado el programa que nos permite recopilar los Tweets hechos en España sobre Star Citizen, mostrandolos en un mapa de Google Maps.
 
-=======
->>>>>>> 0b35ffeb50649b6565a76f22712881ab1a7569ae
 # Practica 2
 Vamos a desarrollar el programa de Python que nos permita, a partir de una lista de
 palabras, encontrar la lista más larga posible de palabras de manera que la última letra de
@@ -21,8 +18,4 @@ En el archivo pokemon.txt se puede insertar el texto compuesto por palabras sepa
 
 v1.1 Ahora acepta saltos de linea
 
-<<<<<<< HEAD
 v1.0 Programa creado
-=======
-v1.0 Programa creado
->>>>>>> 0b35ffeb50649b6565a76f22712881ab1a7569ae
