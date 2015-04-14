@@ -2,14 +2,10 @@
 	<head>
 		<title>StarCitizen Spain</title>
 		 <link rel="stylesheet" href="{{url_for('static', filename='style.css')}}" type='text/css'>
+		 {{mymap.js}}
 	</head>
 	<body>
 		<h2>Busqueda de Tweets en España:</h2>
-		<div>
-			<form action="/buscar" method="POST">
-		   		<input type="text" name="text">
-		       	<input type="submit" name="my-form" value="Buscar">
-		    </form>
-		</div>
+		<div>{{mymap.html}}</div>
 	</body>
 <html>
