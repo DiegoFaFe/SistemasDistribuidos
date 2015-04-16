@@ -5,10 +5,10 @@ import json
 
 #Funcion para la conexion.
 def oauth_login():
-    CONSUMER_KEY = 'V1k5HWU0z62uFCZnagy9RQ'
-    CONSUMER_SECRET = 'gVw8steIbXtnq65sHVCL1kRvlARaC1a6dne2KrMY'
-    OAUTH_TOKEN = '218857687-vWSbnv9WE3Wy1cyPeFJSXhZZVcwIpeNIRSWyasss'
-    OAUTH_TOKEN_SECRET = 'I8QGeSElKpwr3J0aydFVA3CxBn6MknFjTt2J5VCiGY'
+    CONSUMER_KEY = '9knChod065lvNpDUvIK36vbsJ'
+    CONSUMER_SECRET = 'Q9ZMgtbImUghdIi8kPh9V0tT3vO50zobMQiqYBopv2ixOUmy5v'
+    OAUTH_TOKEN = ''
+    OAUTH_TOKEN_SECRET = ''
 
     auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET, CONSUMER_KEY, CONSUMER_SECRET)
 
